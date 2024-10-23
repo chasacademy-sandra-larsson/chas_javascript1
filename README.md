@@ -20,10 +20,6 @@ git remote add origin <Adressen till ditt repo>
 git push -u origin main
 ```
 
-### How to hand in the assignment
-
-Click the link in canvas and input the link to your repo repo.
-
 ### :books: Reading List
 
 - [MDN - const](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const)
